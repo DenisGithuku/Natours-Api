@@ -1,0 +1,8 @@
+[
+    {"id":1,"destination":"Kalahari Desert, Africa","type":"Camping"},
+    {"id":2,"destination":"Bahamas","type":"Overlanding"},
+    {"id":3,"destination":"Maldives","type":"Hiking"},
+    {"id":4,"destination":"Phillipines","type":"Swimming"},
+    {"id":5,"destination":"Kluger National Park, South Africa","description":"Team Building"},
+    {"id":6,"destination":"Maasai Mara National Park, Africa","description":"Sight seeing"}
+]

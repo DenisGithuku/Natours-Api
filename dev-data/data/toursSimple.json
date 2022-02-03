@@ -1,0 +1,84 @@
+    [{
+        "name": "The Mountain Climber",
+        "duration": 12,
+        "ratingsAverage": 4.7,
+        "price": 567,
+        "difficulty": "easy",
+        "ratingsQuantity": 13,
+        "summary": "Not for the faint-hearted. Come and put it to the test",
+        "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum soc.nomen lorem dolor. Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "imageCover": "./images/pure.jpg",
+        "images": ["./image/first.jpg", "./images/second.jpg", "./images/third.jpg"],
+        "startDate": "2021-11-25"
+    },
+    {
+        "name": "The Forest Hiker",
+        "duration": 15,
+        "ratingsAverage": 4.9,
+        "price": 456,
+        "difficulty": "hard",
+        "ratingsQuantity": 10,
+        "summary": "You can always find something to talk about",
+        "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum soc.nomen lorem dolor. Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "imageCover": "./images/pure.jpg",
+        "images": ["./image/first.jpg", "./images/second.jpg", "./images/third.jpg"],
+        "startDate": "2021-11-25"
+
+    },
+    {
+        "name": "The Desert Cowboy",
+        "duration": 12,
+        "ratingsAverage": 4.6,
+        "price": 345,
+        "difficulty": "easy",
+        "ratingsQuantity": 13,
+        "summary": "Walk the talk and head for the eye",
+        "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum soc.nomen lorem dolor. Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "imageCover": "./images/pure.jpg",
+        "images": ["./image/first.jpg", "./images/second.jpg", "./images/third.jpg"],
+        "startDate": "2021-11-25"
+
+    },
+    {
+        "name": "The Rainforest Trekker",
+        "duration": 18,
+        "ratingsAverage": 4.7,
+        "price": 480,
+        "difficulty": "easy",
+        "ratingsQuantity": 13,
+        "summary": "Let's put those lungs to the test",
+        "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum soc.nomen lorem dolor. Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "imageCover": "./images/pure.jpg",
+        "images": ["./image/first.jpg", "./images/second.jpg", "./images/third.jpg"],
+        "startDate": "2021-11-25"
+
+    },
+    {
+        "name": "The Snowman",
+        "duration": 10,
+        "ratingsAverage": 4.8,
+        "price": 993,
+        "difficulty": "hard",
+        "ratingsQuantity": 13,
+        "summary": "Avalanches too are a thing",
+        "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum soc.nomen lorem dolor. Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "imageCover": "./images/pure.jpg",
+        "images": ["./image/first.jpg", "./images/second.jpg", "./images/third.jpg"],
+        "startDate": "2021-11-25"
+
+    },
+    {
+        "name": "The Sea Explorer",
+        "duration": 12,
+        "ratingsAverage": 4.5,
+        "price": 450,
+        "difficulty": "easy",
+        "ratingsQuantity": 13,
+        "summary": "The waves still crash the coast",
+        "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum soc.nomen lorem dolor. Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "imageCover": "./images/pure.jpg",
+        "images": ["./image/first.jpg", "./images/second.jpg", "./images/third.jpg"],
+        "startDate": "2021-11-25"
+
+    }
+]
