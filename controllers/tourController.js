@@ -63,7 +63,7 @@ exports.aliasTopTours = (req, res, next) => {
   next();
 };
 
-exports.getAllTours = catchAsync(async (req, res) => {
+exports.getAllTours = catchAsync(async (req, res, next) => {
   const features = new ApiFeatures(Tour.find(), req.query)
     .filter()
     .sort()
